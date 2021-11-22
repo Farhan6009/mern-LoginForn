@@ -1,0 +1,11 @@
+.not-found {
+  width: 50vw;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(250, 161, 151);
+  border-radius: 15px;
+  box-shadow: 0 5px 7px 5px grey;
+}
